@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetroBat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+906e58a959d9a7cdf8346af7d1f74b36cc58f557")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99844bc2f2750ff4dde8df58c515e2ea8e6fc3b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetroBat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetroBat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
